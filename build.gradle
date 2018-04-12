@@ -43,7 +43,7 @@ allprojects {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile 'com.taobao.android:weex_sdk:0.16.0'
+    compile 'com.taobao.android:weex_sdk:0.16.+'
     compile 'com.alibaba:fastjson:1.1.46.android'
     compile 'com.android.support:appcompat-v7:23.1.1'
     compile 'com.tencent.mm.opensdk:wechat-sdk-android-with-mta:+'
